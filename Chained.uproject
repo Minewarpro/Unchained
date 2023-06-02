@@ -18,17 +18,12 @@
 			"Enabled": false
 		},
 		{
-			"Name": "Bridge",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac",
-				"Linux"
-			]
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
 		},
 		{
-			"Name": "ChaosEditor",
-			"Enabled": false
+			"Name": "EditorScriptingUtilities",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
