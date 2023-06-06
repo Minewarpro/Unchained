@@ -18,6 +18,18 @@
 			"Enabled": false
 		},
 		{
+<<<<<<< Updated upstream
+=======
+			"Name": "Bridge",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		},
+		{
+>>>>>>> Stashed changes
 			"Name": "ChaosEditor",
 			"Enabled": false
 		}
